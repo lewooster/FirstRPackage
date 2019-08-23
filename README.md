@@ -7,6 +7,8 @@
 
 [![Travis build
 status](https://travis-ci.org/lewooster/FirstRPackage.svg?branch=master)](https://travis-ci.org/lewooster/FirstRPackage)
+[![Codecov test
+coverage](https://codecov.io/gh/lewooster/FirstRPackage/branch/master/graph/badge.svg)](https://codecov.io/gh/lewooster/FirstRPackage?branch=master)
 <!-- badges: end -->
 
 The goal of FirstRPackage is to explore developing my First R Package.
